@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1034" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           <mxGeometry x="38.52999999999997" y="61.5" width="82.93" height="108" as="geometry" />
         </mxCell>
         <mxCell id="lUMdEe9F4Xje7YuTwcRw-7" value="Data Brick" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="670" height="330" as="geometry" />
+          <mxGeometry x="445" y="140" width="670" height="305" as="geometry" />
         </mxCell>
         <mxCell id="lUMdEe9F4Xje7YuTwcRw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lUMdEe9F4Xje7YuTwcRw-8" target="lUMdEe9F4Xje7YuTwcRw-3">
           <mxGeometry relative="1" as="geometry">
@@ -135,10 +135,10 @@
         <mxCell id="lUMdEe9F4Xje7YuTwcRw-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
           <mxGeometry x="750" y="590" width="60" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="lUMdEe9F4Xje7YuTwcRw-17" value="Transform" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lUMdEe9F4Xje7YuTwcRw-17" value="Analytics" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="530" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lUMdEe9F4Xje7YuTwcRw-18" value="Synapse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lUMdEe9F4Xje7YuTwcRw-17">
+        <mxCell id="lUMdEe9F4Xje7YuTwcRw-18" value="Synapse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="lUMdEe9F4Xje7YuTwcRw-17">
           <mxGeometry x="40.00000000000001" y="125" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
