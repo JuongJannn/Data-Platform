@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="985" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,23 +180,34 @@
         <mxCell id="pNnHUBTPyivcA734xtzU-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
           <mxGeometry x="906.8" y="130" width="96.4" height="104.38" as="geometry" />
         </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="pNnHUBTPyivcA734xtzU-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-21" value="PROCESSING" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="60" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="1380" y="526.3299999999999" width="73" height="97.33" as="geometry" />
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Machine_Learning.svg;" vertex="1" parent="1">
-          <mxGeometry x="1236.15" y="155.69" width="61" height="64.81" as="geometry" />
+        <mxCell id="pNnHUBTPyivcA734xtzU-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1150.0000000000002" y="-30" width="180.4699999999998" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-24" value="AZURE MACHINE LEARNING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1179.88" y="230" width="174.24" height="30" as="geometry" />
+        <mxCell id="pNnHUBTPyivcA734xtzU-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Machine_Learning.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-30">
+          <mxGeometry x="56.61999999999989" y="135.69" width="61" height="64.81" as="geometry" />
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="1232.65" y="62" width="68" height="48" as="geometry" />
+        <mxCell id="pNnHUBTPyivcA734xtzU-24" value="AZURE MACHINE LEARNING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="pNnHUBTPyivcA734xtzU-30">
+          <mxGeometry x="10.4699999999998" y="200.5" width="163.77" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-26" value="AZURE AI SERVICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1179.5300000000002" y="110" width="174.24" height="30" as="geometry" />
+        <mxCell id="pNnHUBTPyivcA734xtzU-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-30">
+          <mxGeometry x="53.11999999999989" y="42" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-26" value="AZURE AI SERVICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="pNnHUBTPyivcA734xtzU-30">
+          <mxGeometry y="90" width="174.24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-27" value="ENRICH" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="pNnHUBTPyivcA734xtzU-30">
+          <mxGeometry x="0.4699999999997999" width="180" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
