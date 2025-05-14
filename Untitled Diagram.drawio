@@ -26,9 +26,6 @@
         <mxCell id="1iwMT_mHJqonbrluFEku-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA PLATFORM BY AZURE&lt;/h1&gt;&lt;p&gt;BEST ARCHITECTURE&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="39.74" y="-90" width="500.25" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1iwMT_mHJqonbrluFEku-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1iwMT_mHJqonbrluFEku-6" value="Streaming" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="99.87" y="300" width="60" height="30" as="geometry" />
         </mxCell>
@@ -226,7 +223,16 @@
           <mxGeometry x="68.5" y="185" width="63" height="84" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
-          <mxGeometry x="60" y="320" width="77" height="67.94" as="geometry" />
+          <mxGeometry x="61.5" y="370" width="77" height="67.94" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-44" value="AKS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
+          <mxGeometry x="70" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-45" value="POSTGRE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
+          <mxGeometry x="70" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-46" value="POWER BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
+          <mxGeometry x="60" y="123" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
