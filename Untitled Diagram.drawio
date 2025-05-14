@@ -217,13 +217,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-42" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="275" width="200" height="494" as="geometry" />
+          <mxGeometry x="1410" y="280" width="200" height="494" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
-          <mxGeometry x="80" y="49.23000000000002" width="51" height="68" as="geometry" />
+          <mxGeometry x="74.5" y="55.000000000000014" width="51" height="68" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
-          <mxGeometry x="70" y="181.32999999999993" width="73" height="97.33" as="geometry" />
+          <mxGeometry x="68.5" y="185" width="63" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
