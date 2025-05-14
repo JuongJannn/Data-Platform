@@ -100,10 +100,10 @@
           <mxGeometry x="392.6" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="lUMdEe9F4Xje7YuTwcRw-7">
-          <mxGeometry x="160" y="318" width="64" height="52" as="geometry" />
+          <mxGeometry x="180" y="306.86" width="64" height="52" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-20" value="LAKE STORAGE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="lUMdEe9F4Xje7YuTwcRw-7">
-          <mxGeometry x="132" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="152" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUMdEe9F4Xje7YuTwcRw-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="313" y="260" width="200" height="510" as="geometry" />
