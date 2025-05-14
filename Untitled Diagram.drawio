@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="530" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,21 @@
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-46" value="POWER BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
           <mxGeometry x="60" y="123" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229.87" y="870" width="626" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="870" width="626" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="790" width="1296" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-56" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="860" y="797.97" width="44.06" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Factory&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="889.9999999999999" y="790" width="180.12" height="72.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
