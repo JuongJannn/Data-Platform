@@ -187,7 +187,7 @@
           <mxGeometry x="1380" y="526.3299999999999" width="73" height="97.33" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Machine_Learning.svg;" vertex="1" parent="1">
-          <mxGeometry x="1232.65" y="147.88" width="68.35" height="72.62" as="geometry" />
+          <mxGeometry x="1236.15" y="155.69" width="61" height="64.81" as="geometry" />
         </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-24" value="AZURE MACHINE LEARNING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1179.88" y="230" width="174.24" height="30" as="geometry" />
