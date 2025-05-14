@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1293" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,9 +188,6 @@
         <mxCell id="pNnHUBTPyivcA734xtzU-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-21">
           <mxGeometry x="51.799999999999955" y="47.81" width="96.4" height="104.38" as="geometry" />
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="429.99999999999994" width="73" height="97.33" as="geometry" />
-        </mxCell>
         <mxCell id="pNnHUBTPyivcA734xtzU-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1120.0000000000002" y="45" width="180.4699999999998" height="230" as="geometry" />
         </mxCell>
@@ -219,8 +216,14 @@
             <mxPoint x="1410" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pNnHUBTPyivcA734xtzU-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
-          <mxGeometry x="1461" y="292" width="51" height="68" as="geometry" />
+        <mxCell id="pNnHUBTPyivcA734xtzU-42" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="275" width="200" height="494" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
+          <mxGeometry x="80" y="49.23000000000002" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="pNnHUBTPyivcA734xtzU-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="pNnHUBTPyivcA734xtzU-42">
+          <mxGeometry x="70" y="181.32999999999993" width="73" height="97.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
